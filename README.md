@@ -1,4 +1,4 @@
-![Intro](https://github.com/Coder0202/Cyberus.git)
+![Introduction](https://github.com/Coder0202/Cyberus.git)
 <br/>
 
 # Cyberus - measuring risk
