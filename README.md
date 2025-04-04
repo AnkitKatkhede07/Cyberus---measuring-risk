@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 ![# Cyberus - measuring risk](https://github.com/Coder0202/Cyberus.git)
 =======
 
->>>>>>> 3514e9a81d0a60fbc498907e7eecb43f830cc8a4
+
 <br/>
 
 # Cyberus - measuring risk
