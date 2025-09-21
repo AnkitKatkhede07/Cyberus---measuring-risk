@@ -94,3 +94,61 @@ Please note that the provided links lead to the respective datasets on Kaggle.
 ## Contribution
 
 We welcome contributions to the development of Cyberus. If you would like to contribute to the project, please follow the guidelines outlined in the official documentation or reach out to the development team for more information. Contributions can include but are not limited to bug fixes, feature enhancements, documentation improvements, and feedback on the existing functionalities. By contributing to Cyberus, you can help improve the tool's effectiveness and make a positive impact on its overall development. Together, we can create a robust and reliable tool for checking the legitimacy and risk assessment of messages.
+
+📌 **Project Timeline**
+
+**Phase 1 – Project Planning (Week 1–2)**
+
+1.Selection of project topic and objectives.
+
+2.Literature survey and background study.
+
+3.Finalization of tools, technologies, and methodology.
+
+**Phase 2 – Data Collection & Requirement Analysis (Week 3–4)**
+
+1.Gathering of relevant data and resources.
+
+2.Analysis of requirements for design and implementation.
+
+3.Preparation of System Requirement Specification (SRS).
+
+**Phase 3 – System Design (Week 5–6)**
+
+1.High-level and low-level design creation.
+
+2.Flowcharts, UML diagrams, and architecture design.
+
+3.Review and refinement of design.
+
+**Phase 4 – Implementation / Coding (Week 7–9)**
+
+1.Development of core modules.
+
+2.Integration of modules.
+
+3.Internal testing during development.
+
+**Phase 5 – Testing & Performance Analysis (Week 10–11)**
+
+1.Unit testing, integration testing, and system testing.
+
+2.Error detection and debugging.
+
+3.Performance evaluation against objectives.
+
+**Phase 6 – Documentation & Report Writing (Week 12–13)**
+
+1.Preparation of detailed project report.
+
+2.Paper writing for seminar/presentation.
+
+3.Drafting of supporting documents (abstract, references, acknowledgement, etc.).
+
+**Phase 7 – Final Presentation & Submission (Week 14)**
+
+1.Preparation of PPT for final presentation.
+
+2.Final project demonstration.
+
+3.Submission of report, paper, and all project deliverables.
